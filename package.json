@@ -1,5 +1,8 @@
 {
   "private": true,
+  "scripts": {
+    "help": "tailwindcss -h"
+  },
   "devDependencies": {
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.4"
   }
